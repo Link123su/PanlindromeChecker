@@ -25,6 +25,7 @@ def checker(word):
     else:
         print("Enter a Valid input")
 
+
 while True:
     print("Enter q to Quit.")
     user_word = input("Enter word to check: ").lower()
